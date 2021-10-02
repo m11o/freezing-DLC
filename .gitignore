@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 
 .idea
+videos
+trained_videos/**/*.avi
+trained_videos/**/*.mp4
